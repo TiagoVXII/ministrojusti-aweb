@@ -6,14 +6,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Website AFG',
+  title: 'Website Ministro da Justiça',
   tagline: 'Bem Vindo',
   favicon: 'img/favicon.ico',
   
   
 
   // Set the production url of your site here
-  url: 'https://websiteafg.pages.dev/',
+  url: 'https://novowebsiteministro.pages.dev/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
